@@ -15,3 +15,7 @@
 	- The percent of total fares.
 	- The percent of total rides.
 	- The percent of total drivers.
+## Overview
+The goal of this analysis was to examine how PyBer operates according to different city types of Urban, Suburban, and Rural. The metrics examined were the total rides of each type, total drivers, average fare per ride, and finally average fare per driver. Ultimately, we wanted to provide a visualization that demonstrated how each type of city *fared* between January 1st, 2019 to April 28th, 2019 looking at weekly data.  
+## Results
+## Summary
